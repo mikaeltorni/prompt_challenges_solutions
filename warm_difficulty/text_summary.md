@@ -41,4 +41,4 @@ Summary:
 • New products
 
 # CONTENT
-Here's the text content for you to analyze: {Text Content}
+Here's the text content for the analysis: {Text Content}
